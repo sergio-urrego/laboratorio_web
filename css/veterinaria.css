@@ -1,0 +1,122 @@
+body{
+    background-color: darkgray;
+}
+#cuadro{
+    margin: 2px;
+    border:solid;
+    border-radius: 8px;
+    border-color:black;
+    height: 300px ;
+    width:100% ;
+}
+nav{
+    border-radius:10px ;
+    background-color:#32CD32;
+}
+nav ul{ 
+    background-color:gray;
+    list-style-type:none ;
+    margin:0px;
+    padding:0px;
+}
+nav li{
+    float: left;
+    display:block;
+    text-align: center;
+    padding:20px 110px ;
+}
+nav{
+    border: solid;
+    border-radius:10px;
+    border-color: black;
+    background-color:burlywood;
+    height: 50px;
+}
+
+nav li :hover{
+    background-color:#F4A460;
+    color:red;
+}
+
+.section{
+    width:115% ;
+}
+
+#p1{
+    width:94% ;
+    margin: 6px;
+    padding:20px;
+    border:solid;
+    border-radius: 10px;
+    border-color: gray;
+    background-color:gray;
+}
+
+#img{
+    float: right;
+    margin:20px 3px ;
+}
+#p1 p{
+    text-align: justify;
+}
+#p2{
+    width:95% ;
+    padding:20px ;
+    border:solid ;
+    border-radius: 10px;
+    border-color: gray;
+    background-color: gray;
+}
+#p2 p{
+    text-align: justify;
+}
+
+#bl{
+    margin: top 2px; 
+    border-radius: 15px;  
+    border: solid;
+    width:26% ;
+    height: 300px; 
+    background-color: burlywood;
+    padding: 10px;
+}
+#bl header{
+    text-align: center;
+}
+#bl input{
+    text-align: center;
+    float: right;
+
+}
+section{
+    width:100%;
+}
+footer p{
+    color:white;
+    text-align: center;
+}
+#bl div{
+    text-align: center;
+}
+#p3{
+    margin:6px ;
+    padding:20px ;
+    border:solid ;
+    border-radius: 10px;
+    border-color: gray;
+    background-color: gray;
+}
+#p3 p{
+    text-align: justify;
+}
+h2{
+    color:burlywood;
+    
+}
+
+.contenedor{
+    display: flex;
+    width: 100%;
+}
+
+
